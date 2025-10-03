@@ -43,8 +43,6 @@ Always curious, always building, and constantly learning.
 ---
 [![](https://visitcount.itsvg.in/api?id=shaunbenedict&icon=0&color=1)](https://visitcount.itsvg.in)
 
----
-
 ## 💬 Favorite Quote
 > “Code is like humor. When you have to explain it, it’s bad.” 😎
 
